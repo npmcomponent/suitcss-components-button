@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [suitcss/components-button](http://github.com/suitcss/components-button). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/suitcss-components-button`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # SUIT components-button
 
 A SUIT component that provides a structural UI button template to be extended
